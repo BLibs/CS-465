@@ -1,6 +1,6 @@
 const request = require('request');
 const apiOptions = {
-    server: 'http://ocalhost:3000'
+    server: 'http://localhost:3000'
 }
 
 // Render travel list view
